@@ -55,3 +55,4 @@ python38/
 
 # Dependencies (if using different versions)
 node_modules/
+*.xlsx
